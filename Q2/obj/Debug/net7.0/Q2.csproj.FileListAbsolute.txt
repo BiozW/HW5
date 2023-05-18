@@ -1,0 +1,15 @@
+D:\MDT\2022\GDM222\HW5\Q2\bin\Debug\net7.0\Q2.exe
+D:\MDT\2022\GDM222\HW5\Q2\bin\Debug\net7.0\Q2.deps.json
+D:\MDT\2022\GDM222\HW5\Q2\bin\Debug\net7.0\Q2.runtimeconfig.json
+D:\MDT\2022\GDM222\HW5\Q2\bin\Debug\net7.0\Q2.dll
+D:\MDT\2022\GDM222\HW5\Q2\bin\Debug\net7.0\Q2.pdb
+D:\MDT\2022\GDM222\HW5\Q2\obj\Debug\net7.0\Q2.csproj.AssemblyReference.cache
+D:\MDT\2022\GDM222\HW5\Q2\obj\Debug\net7.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MDT\2022\GDM222\HW5\Q2\obj\Debug\net7.0\Q2.AssemblyInfoInputs.cache
+D:\MDT\2022\GDM222\HW5\Q2\obj\Debug\net7.0\Q2.AssemblyInfo.cs
+D:\MDT\2022\GDM222\HW5\Q2\obj\Debug\net7.0\Q2.csproj.CoreCompileInputs.cache
+D:\MDT\2022\GDM222\HW5\Q2\obj\Debug\net7.0\Q2.dll
+D:\MDT\2022\GDM222\HW5\Q2\obj\Debug\net7.0\refint\Q2.dll
+D:\MDT\2022\GDM222\HW5\Q2\obj\Debug\net7.0\Q2.pdb
+D:\MDT\2022\GDM222\HW5\Q2\obj\Debug\net7.0\Q2.genruntimeconfig.cache
+D:\MDT\2022\GDM222\HW5\Q2\obj\Debug\net7.0\ref\Q2.dll
