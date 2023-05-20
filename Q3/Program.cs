@@ -27,6 +27,10 @@ class Program
                 {
                     number0_9 = 0;
                     texta_z++;
+                    if(texta_z > 'Z')
+                    {
+                        texta_z = 'A';
+                    }
                 }
             }
         } 
