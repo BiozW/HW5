@@ -2,7 +2,7 @@
 
 class program
 {
-    static void Main()
+    static void Main(string[] args)
     {
         string currentPos = "A1";
 
